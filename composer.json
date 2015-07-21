@@ -1,0 +1,19 @@
+{
+    "require": {
+        "aydin-hassan/magento-core-composer-installer": "^1.2",
+        "magento-hackathon/magento-composer-installer": "^3.0",
+        "magento/core": "1.9.*"
+    },   
+    "repositories":[         
+        {
+            "type":"composer",
+            "url":"http://packages.firegento.com"
+        }
+    ],
+    "extra":{
+        "magento-root-dir": "public/",
+    	"magento-core-deploy" : {
+        }
+    }
+
+}
