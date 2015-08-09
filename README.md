@@ -4,4 +4,4 @@ Checking out the magento composer installer
  * [Magento Composer Installer](https://github.com/Cotya/magento-composer-installer)
 
 ## Installation
-composer install
+mkdir public && composer install
