@@ -1,0 +1,4 @@
+/vendor
+/public/var/**/*
+/public/media/**/*
+/public/includes
